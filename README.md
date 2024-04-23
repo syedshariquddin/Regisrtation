@@ -1,1 +1,1 @@
-# Regisrtation
+# Registration
